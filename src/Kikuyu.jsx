@@ -15,7 +15,7 @@ const Kikuyu = () => {
            <img src={picture} alt='WAWERU' className='picture'/>
            </figure>
            <p style={{textAlign:'center', fontStyle:'italic', color:'green', fontWeight:'bolder'}}>Sunrise: 10th October 1971</p>
-           <p style={{textAlign:'center', fontStyle:'italic', color:'green', fontWeight:'bolder'}}>Sunrise: 16th November 2024</p>
+           <p style={{textAlign:'center', fontStyle:'italic', color:'green', fontWeight:'bolder'}}>Sunset: 16th November 2024</p>
         </section>
         <section>
            <h2>RUGANO RWA MWENDO-NIIRI CHARLES WAWERU KAMAU.</h2> 
