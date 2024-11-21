@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first{
+    display:flex;
+    flex-direction: column;
+   
+    height:100%;
+    width:100%;
+}
+.kwanza{
+    height:100vh;
+    width:100vw;
+}
+
+
+.figa {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .picture{
+    height:50vh;
+    width:70vw;
+    
+   
+}
+@media(min-width:1000px){
+    .picture{
+        height:80vh;
+        width:60vw;
+    }
+}
+  .spacer{
+    height:10px;
+    width:100%;
+  }
+  section{
+    margin:10px;
+  }
+  .head{
+    text-align: center;
+  }
