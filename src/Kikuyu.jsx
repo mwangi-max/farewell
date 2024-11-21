@@ -14,11 +14,30 @@ const Kikuyu = () => {
             <figure className='figa'>
            <img src={picture} alt='WAWERU' className='picture'/>
            </figure>
+           <div className='second'>
            <p style={{textAlign:'center', fontStyle:'italic', color:'green', fontWeight:'bolder'}}>Sunrise: 10th October 1971</p>
            <p style={{textAlign:'center', fontStyle:'italic', color:'green', fontWeight:'bolder'}}>Sunset: 16th November 2024</p>
+           </div>
+        </section>
+
+        <section>
+        <h2 style={{margin:'10px'}}>Day's Programme, 22nd November 2024.</h2> 
+        <p>7:00 AM - Arrival at Home</p>
+        <p>7:30 AM - Departure from Home</p>
+        <p>8:00 AM - Arrival at Kiambu Level V Hospital Mortuary</p>
+        <p>8:30 AM - Body viewing</p>
+        <p>8:30 AM - Departure to Lang'ata Cemetery, Nairobi.</p>
+        <p>10:00 AM - Arrival at Lang'ata Cemetery, Nairobi.</p>
+        <p>11:00 AM - Church Service.</p>
+        <h3>Responsibilities:</h3>
+        <p>Transport Manager: Samuel Maina (Moa)</p>
+        <p>Eulogy Reader: Jane Wambui (Karugi)</p>
+        <p>Vote of Thanks: Samuel Kamau Ngugi</p>
+
+        
         </section>
         <section>
-           <h2>RUGANO RWA MWENDO-NIIRI CHARLES WAWERU KAMAU.</h2> 
+           <h2 style={{margin:'10px'}}>RUGANO RWA MWENDO-NIIRI CHARLES WAWERU KAMAU.</h2> 
 <h3>GUCIARWO:</h3>
 <p>Mwendo-niiri Charles Waweru Kamau aciarirwo mweri ikumi, mweri wa ikumi, mwaka-ini wa 1971 (10th October 1971), ituraiini ria Mombatha, Karuri ward, Kiambaa sub-county, Kiambu County.</p>
 <p>Aciari ake ni Mary Wairimu na mutiga-iri John Kamau Waweru.</p>
@@ -48,6 +67,7 @@ const Kikuyu = () => {
         </section>
 
         <section>
+            <h2 style={{marginTop:'10px', fontStyle:'italic'}}>HYMNS</h2>
             <h2>JESU WEE UNYENDETE</h2>
             <p>Jesũ We ũnyendete,</p>
 <p>Nĩngũũrĩra harĩ we:</p>
