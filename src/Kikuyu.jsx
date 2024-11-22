@@ -127,6 +127,8 @@ const Kikuyu = () => {
 <p>Jesũ akirie gũka agatuhurũkie</p>
 <p>Kũrĩa gũtarĩ maithori na gũtarĩ thĩna</p>
         </section>
+      <p>Created by <a href="https://levkin.net">LEVKIN LIVE </a></p>
+      <p>CONTACTS: 0724 557 035 </p>
     </article>
   )
 }
